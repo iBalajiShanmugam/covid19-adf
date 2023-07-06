@@ -1,0 +1,12 @@
+{
+	"name": "ls_http_opendata_ecdc_euopa_eu",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://github.com",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
