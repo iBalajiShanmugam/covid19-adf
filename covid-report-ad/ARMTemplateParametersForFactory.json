@@ -13,6 +13,9 @@
 		},
 		"ls_ads_covidreportdl_properties_typeProperties_url": {
 			"value": "https://covidrepot19dl.dfs.core.windows.net/"
+		},
+		"ls_http_opendata_ecdc_euopa_eu_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com"
 		}
 	}
 }
